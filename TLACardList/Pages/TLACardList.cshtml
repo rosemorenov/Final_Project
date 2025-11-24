@@ -1,0 +1,41 @@
+﻿@page
+@model TLACardList.Pages.TLACardListModel
+@{
+    ViewData["Title"] = "TLA Card List";
+}
+
+<!-- Main page heading -->
+<h1>The Last Airbender Card List</h1>
+
+<!-- Form that submits card selection via POST method -->
+<form method="post">
+    <!-- Dropdown list that binds to the SelectedCardId property and populates options from Model.CardList -->
+    <select asp-for="SelectedCardId" asp-items="Model.CardList" class="form-control">
+        <!-- Default option when no card is selected -->
+        <option value="">Select a Card</option>
+    </select>
+    <!-- Submit button to send the form and show the selected card details -->
+    <button type="submit" class="btn btn-primary mt-2">Show Card</button>
+</form>
+
+<!-- Conditional section that only displays when a card is selected -->
+@if (Model.SelectedCard != null)
+{
+    <!-- Container for card details with top margin spacing -->
+    <div class="mt-4">
+        <!-- Display the selected card's name as a heading -->
+        <h2>@Model.SelectedCard.Name</h2>
+        <!-- Display the card's CardSet -->
+        <p>Card Set: @Model.SelectedCard.CardSet</p>
+        <!-- Display the CardType -->
+        <p>Card Type: $@Model.SelectedCard.CardType</p>
+        <!-- Display the card collector number -->
+        <p>Collector #: $@Model.SelectedCard.CollectorNumber</p>
+        <!-- Display the card in game cost -->
+        <p>In-Game Cost: $@Model.SelectedCard.Cost</p>
+        <!-- Display card details -->
+        <p>Details: $@Model.SelectedCard.Details</p>
+        <!-- Display the card's image with a maximum width and alt text for accessibility -->
+        <img src="/images/@Model.SelectedCard.ImageFileName" alt="@Model.SelectedCard.Name" style="max-width: 300px;" />
+    </div>
+}
