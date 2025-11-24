@@ -28,13 +28,13 @@
         <!-- Display the card's CardSet -->
         <p>Card Set: @Model.SelectedCard.CardSet</p>
         <!-- Display the CardType -->
-        <p>Card Type: $@Model.SelectedCard.CardType</p>
+        <p>Card Type: @Model.SelectedCard.CardType</p>
         <!-- Display the card collector number -->
-        <p>Collector #: $@Model.SelectedCard.CollectorNumber</p>
+        <p>Collector #: @Model.SelectedCard.CollectorNumber</p>
         <!-- Display the card in game cost -->
-        <p>In-Game Cost: $@Model.SelectedCard.Cost</p>
+        <p>In-Game Cost: @Model.SelectedCard.Cost</p>
         <!-- Display card details -->
-        <p>Details: $@Model.SelectedCard.Details</p>
+        <p>Details: @Model.SelectedCard.Details</p>
         <!-- Display the card's image with a maximum width and alt text for accessibility -->
         <img src="/images/@Model.SelectedCard.ImageFileName" alt="@Model.SelectedCard.Name" style="max-width: 300px;" />
     </div>

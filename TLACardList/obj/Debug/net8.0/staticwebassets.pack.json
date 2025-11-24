@@ -1,0 +1,1653 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/obj/Debug/net8.0/scopedcss/projectbundle/TLACardList.bundle.scp.css",
+      "PackagePath": "staticwebassets/TLACardList.bundle.scp.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0001.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0001.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0002.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0002.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0003.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0003.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0004.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0004.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0005.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0005.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0006.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0006.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0007.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0007.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0008.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0008.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0009.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0009.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0010.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0010.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0011.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0011.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0012.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0012.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0013.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0013.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0014.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0014.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0015.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0015.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0016.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0016.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0017.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0017.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0018.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0018.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0019.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0019.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0020.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0020.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0021.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0021.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0022.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0022.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0023.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0023.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0024.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0024.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0025.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0025.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0026.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0026.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0027.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0027.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0028.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0028.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0029.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0029.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0030.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0030.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0031.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0031.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0032.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0032.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0033.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0033.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0034.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0034.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0035.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0035.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0036.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0036.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0037.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0037.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0038.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0038.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0039.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0039.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0040.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0040.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0041.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0041.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0042.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0042.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0043.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0043.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0044.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0044.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0045.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0045.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0046.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0046.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0047.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0047.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0048.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0048.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0049.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0049.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0050.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0050.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0051.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0051.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0052.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0052.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0053.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0053.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0054.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0054.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0055.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0055.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0056.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0056.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0057.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0057.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0058.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0058.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0059.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0059.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0060.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0060.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0061.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0061.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0062.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0062.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0063.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0063.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0064.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0064.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0065.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0065.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0066.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0066.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0067.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0067.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0068.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0068.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0069.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0069.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0070.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0070.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0071.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0071.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0072.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0072.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0073.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0073.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0074.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0074.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0075.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0075.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0076.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0076.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0077.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0077.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0078.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0078.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0079.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0079.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0080.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0080.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0081.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0081.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0082.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0082.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0083.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0083.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0084.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0084.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0085.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0085.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0086.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0086.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0087.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0087.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0088.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0088.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0089.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0089.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0090.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0090.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0091.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0091.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0092.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0092.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0093.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0093.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0094.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0094.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0095.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0095.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0096.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0096.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0097.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0097.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0098.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0098.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0099.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0099.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0100.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0100.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0101.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0101.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0102.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0102.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0103.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0103.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0104.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0104.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0105.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0105.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0106.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0106.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0107.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0107.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0108.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0108.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0109.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0109.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0110.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0110.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0111.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0111.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0112.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0112.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0113.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0113.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0114.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0114.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0115.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0115.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0116.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0116.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0117.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0117.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0118.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0118.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0119.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0119.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0120.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0120.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0121.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0121.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0122.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0122.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0123.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0123.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0124.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0124.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0125.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0125.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0126.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0126.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0127.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0127.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0128.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0128.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0129.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0129.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0130.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0130.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0131.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0131.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0132.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0132.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0133.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0133.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0134.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0134.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0135.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0135.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0136.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0136.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0137.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0137.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0138.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0138.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0139.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0139.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0140.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0140.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0141.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0141.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0142.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0142.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0143.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0143.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0144.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0144.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0145.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0145.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0146.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0146.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0147.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0147.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0148.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0148.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0149.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0149.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0150.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0150.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0151.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0151.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0152.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0152.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0153.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0153.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0154.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0154.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0155.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0155.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0156.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0156.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0157.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0157.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0158.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0158.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0159.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0159.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0160.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0160.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0161.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0161.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0162.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0162.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0163.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0163.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0164.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0164.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0165.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0165.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0166.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0166.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0167.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0167.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0168.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0168.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0169.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0169.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0170.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0170.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0171.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0171.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0172.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0172.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0173.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0173.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0174.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0174.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0175.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0175.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0176.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0176.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0177.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0177.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0178.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0178.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0179.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0179.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0180.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0180.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0181.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0181.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0182.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0182.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0183.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0183.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0184.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0184.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0185.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0185.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0186.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0186.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0187.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0187.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0188.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0188.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0189.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0189.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0190.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0190.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0191.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0191.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0192.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0192.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0193.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0193.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0194.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0194.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0195.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0195.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0196.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0196.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0197.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0197.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0198.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0198.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0199.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0199.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0200.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0200.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0201.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0201.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0202.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0202.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0203.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0203.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0204.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0204.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0205.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0205.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0206.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0206.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0207.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0207.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0208.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0208.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0209.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0209.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0210.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0210.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0211.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0211.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0212.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0212.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0213.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0213.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0214.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0214.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0215.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0215.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0216.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0216.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0217.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0217.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0218.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0218.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0219.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0219.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0220.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0220.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0221.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0221.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0222.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0222.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0223.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0223.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0224.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0224.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0225.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0225.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0226.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0226.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0227.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0227.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0228.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0228.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0229.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0229.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0230.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0230.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0231.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0231.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0232.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0232.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0233.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0233.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0234.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0234.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0235.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0235.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0236.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0236.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0237.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0237.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0238.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0238.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0239.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0239.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0240.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0240.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0241.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0241.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0242.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0242.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0243.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0243.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0244.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0244.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0245.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0245.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0246.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0246.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0247.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0247.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0248.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0248.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0249.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0249.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0250.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0250.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0251.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0251.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0252.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0252.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0253.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0253.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0254.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0254.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0255.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0255.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0256.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0256.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0257.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0257.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0258.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0258.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0259.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0259.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0260.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0260.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0261.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0261.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0262.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0262.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0263.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0263.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0264.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0264.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0265.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0265.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0266.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0266.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0267.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0267.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0268.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0268.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0269.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0269.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0270.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0270.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0271.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0271.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0272.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0272.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0273.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0273.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0274.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0274.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0275.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0275.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0276.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0276.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0277.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0277.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0278.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0278.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0279.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0279.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0280.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0280.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0281.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0281.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0282.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0282.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0283.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0283.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0284.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0284.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0285.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0285.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0286.jpg",
+      "PackagePath": "staticwebassets/images/TLA_0286.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0001.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0001.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0002.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0002.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0003.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0003.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0004.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0004.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0005.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0005.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0006.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0006.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0007.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0007.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0008.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0008.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0009.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0009.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0010.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0010.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0011.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0011.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0012.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0012.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0013.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0013.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0014.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0014.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0015.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0015.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0016.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0016.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0017.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0017.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0018.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0018.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0019.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0019.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0020.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0020.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0021.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0021.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0022.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0022.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0023.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0023.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0024.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0024.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0025.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0025.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0026.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0026.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0027.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0027.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0028.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0028.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0029.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0029.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0030.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0030.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0031.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0031.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0032.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0032.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0033.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0033.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0034.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0034.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0035.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0035.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0036.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0036.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0037.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0037.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0038.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0038.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0039.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0039.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0040.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0040.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0041.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0041.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0042.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0042.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0043.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0043.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0044.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0044.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0045.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0045.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0046.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0046.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0047.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0047.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0048.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0048.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0049.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0049.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0050.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0050.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0051.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0051.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0052.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0052.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0053.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0053.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0054.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0054.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0055.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0055.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0056.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0056.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0057.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0057.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0058.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0058.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0059.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0059.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0060.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0060.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLE_0061.jpg",
+      "PackagePath": "staticwebassets/images/TLE_0061.jpg"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.TLACardList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.TLACardList.props",
+      "PackagePath": "build\\TLACardList.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TLACardList.props",
+      "PackagePath": "buildMultiTargeting\\TLACardList.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TLACardList.props",
+      "PackagePath": "buildTransitive\\TLACardList.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
