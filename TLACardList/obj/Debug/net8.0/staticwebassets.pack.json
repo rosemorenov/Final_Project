@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/MTG_TLA_INDEX.jpg",
+      "PackagePath": "staticwebassets/images/MTG_TLA_INDEX.jpg"
+    },
+    {
       "Id": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0001.jpg",
       "PackagePath": "staticwebassets/images/TLA_0001.jpg"
     },

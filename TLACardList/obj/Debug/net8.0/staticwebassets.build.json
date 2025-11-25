@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1yvMDiCp0wU2E5vuVc17O05d9Fv9NE3mxA1RetroUmM=",
+  "Hash": "KXMZLHa4VHPhCVg4XXFGHqec1DE+fOaQGCPi8v+JdKs=",
   "Source": "TLACardList",
   "BasePath": "_content/TLACardList",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/workspaces/Final_Project/TLACardList/wwwroot/images/MTG_TLA_INDEX.jpg",
+      "SourceId": "TLACardList",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Final_Project/TLACardList/wwwroot/",
+      "BasePath": "_content/TLACardList",
+      "RelativePath": "images/MTG_TLA_INDEX.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/MTG_TLA_INDEX.jpg"
     },
     {
       "Identity": "/workspaces/Final_Project/TLACardList/wwwroot/images/TLA_0001.jpg",

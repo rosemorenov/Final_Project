@@ -25,12 +25,13 @@ namespace TLACardList.Pages
         public void OnGet()
         {
             LoadCardList();
+            SelectedCard = GetCardById(SelectedCardId);
         }
 
 
         // Handles HTTP POST requests (when user selects a card) - loads the card list
-        // and retrieves the selected card's details
-        public IActionResult OnPost()
+        // and retrieves the selected card's details when you click the show card button
+        public IActionResult OnPostShow()
         {
             LoadCardList();
             if (SelectedCardId != 0)

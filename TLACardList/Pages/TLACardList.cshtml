@@ -15,14 +15,22 @@
         <option value="">Select a Card</option>
     </select>
     <!-- Submit button to send the form and show the selected card details -->
-    <button type="submit" class="btn btn-primary mt-2">Show Card</button>
+   <div class="container">
+   <div class="row">
+   <div class="col">
+   <button type="submit" class="btn btn-primary mt-2" asp-page-handler="Show">Show Card</button>
+    <br />
+    <button type="submit" class="btn btn-primary mt-2" asp-page-handler="Add">Add Card</button>
+    <br />
+    <button type="submit" class="btn btn-primary mt-2" asp-page-handler="Remove">Remove Card</button>
 </form>
+</div>
 
 <!-- Conditional section that only displays when a card is selected -->
 @if (Model.SelectedCard != null)
 {
     <!-- Container for card details with top margin spacing -->
-    <div class="mt-4">
+    <div class="col">
         <!-- Display the selected card's name as a heading -->
         <h2>@Model.SelectedCard.Name</h2>
         <!-- Display the card's CardSet -->
@@ -36,6 +44,8 @@
         <!-- Display card details -->
         <p>Details: @Model.SelectedCard.Details</p>
         <!-- Display the card's image with a maximum width and alt text for accessibility -->
+    </div>
+    <div class="col">
         <img src="/images/@Model.SelectedCard.ImageFileName" alt="@Model.SelectedCard.Name" style="max-width: 300px;" />
     </div>
 }

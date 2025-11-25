@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TLACardList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23c2147332a19ac04bdd1c3f3a682564134f6645")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa61f768693bca6797e7613835193e9097e2011e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TLACardList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TLACardList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
